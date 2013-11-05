@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+    <body>
+        <release version="1.1" date="2007-03-27" description="Correction mineur">
+            <action dev="gonnot,galabert" type="fix">
+                Prise en compte de la correction sur les chemin Windows dans les properties '@'.
+            </action>
+        </release>
+    </body>
+</document>

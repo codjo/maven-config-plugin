@@ -1,0 +1,16 @@
+<project>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>net.codjo.maven.mojo</groupId>
+                <artifactId>maven-config-plugin</artifactId>
+                <configuration>
+                    <project implementation="net.codjo.maven.mojo.config.MavenProjectMock"/>
+
+                    <inputDirectory>target/test-classes/mojos/basic/input</inputDirectory>
+                    <outputDirectory>target/test-classes/mojos/basic/output</outputDirectory>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

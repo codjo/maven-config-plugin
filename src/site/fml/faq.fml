@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<faqs title="Faq plugin">
+    <part id="about">
+        <faq id="doc-help">
+            <question>Pourquoi les properties ne sont-elles pas remplacées ?</question>
+            <answer>
+                <p>
+                    Il y a probablement un problème de casse.
+                </p>
+            </answer>
+        </faq>
+    </part>
+</faqs>

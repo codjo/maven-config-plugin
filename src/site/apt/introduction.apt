@@ -1,0 +1,29 @@
+ ------
+ Introduction
+ ------
+ AGF Development Team
+ ------
+ 07 Septembre 2006
+ ------
+
+Maven config plugin
+
+ Ce plugin permet d'instancier les parties variables des fichiers de configuration se trouvant dans
+ 'src/config'.
+
+* Cibles
+
+  Ce plugin comporte 1 cible :
+
+  * {{{config-mojo.html}config:config}} Instancie les parties variables dans les fichiers de config.
+
+* Utilisation
+
+  Les instructions permettant d'utiliser le plugin se trouve {{{usage.html}ici}}.
+
+* Exemples
+
+  Exemple d'utilisation du plugin:
+
+  * {{{examples/example-delivery.html}Configuration pour les livraisons}}
+
