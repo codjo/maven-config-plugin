@@ -90,9 +90,9 @@
      -->
 
     <scm>
-        <connection>scm:git:https://github.com/codjo/config.git</connection>
-        <developerConnection>scm:git:https://github.com/codjo/config.git</developerConnection>
-        <url>https://github.com/codjo/config</url>
+        <connection>scm:git:https://github.com/codjo/maven-config-plugin.git</connection>
+        <developerConnection>scm:git:https://github.com/codjo/maven-config-plugin.git</developerConnection>
+        <url>https://github.com/codjo/maven-config-plugin</url>
     </scm>
 
 </project>
